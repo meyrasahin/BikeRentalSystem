@@ -1,3 +1,4 @@
 # BikeRentalSystem
 
-Ege University Data Structures Project 3
+Ege University - Computer Engineering Department
+Data Structures Project 3
